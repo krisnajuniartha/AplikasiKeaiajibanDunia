@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AplikasiKeaiajibanDunia</string>
+    <string name="nama_saya">I Gede Krisna Juniartha</string>
+    <string name="email_saya">gedekrisna22@gmail.com</string>
+    <string name="tempat_name">Nama Tempat</string>
+    <string name="description">Deskripsi</string>
+    <string name="judul_tempat">Judul Tempat</string>
+    <string name="lokasi_tempat">Lokasi Tempat</string>
+    <string name="share">Berbagi</string>
+
+
+
+
+
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Roman Baths di Sommerset, UK</item>
+        <item>Menara Miring Pisa, Italia</item>
+        <item>Colosseum di Roma, Italia</item>
+        <item>Chichen Itza di Yucatan, Meksiko</item>
+        <item>Hagia Sophia di Istanbul, Turki</item>
+        <item>Machu Picchu di lembah Urubamba, Peru</item>
+        <item>Taj Mahal dan Benteng Agra di Uttar Pradesh, India</item>
+        <item>Cristo Redentor Statue di Rio de Janeiro, Brasil</item>
+        <item>Petra di Amman, Yordania</item>
+        <item>Tembok Besar China di Huairou, Republik Rakyat Tiongkok</item>
+        <item>Candi Borobudur, Indonesia</item>
+        <item>Candi Prambanan, Indonesia</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Tempat ini ialah kompleks pemandian bersejarah di zaman Romawi. Suhu air yang memancar dari sumber air panasnya mencapai 46 derajat celcius, dan semenjak ditemukan telah mengeluarkan air sebanyak 240 ribu galon setiap harinya. Selalu ada lebih dari satu juta pengunjung setiap tahunnya. </item>
+        <item>Menara Pisa sebenarnya adalah lonceng dari sebuah katedral. Yang membuatnya unik dan sampai dikenal di seluruh dunia adalah kemiringan bangunannya. Kemiringan menara ini disebabkan karena kondisi tanah yang tidak stabil. Satu hal yang menjadi sangat menarik, meski posisinya miring, namun bangunan menara Pisa tetap tahan selama berabad-abad.</item>
+        <item>Colosseum juga disebut Flavian Amphitheater, yakni merupakan bangunan terbesar dan kebanggaan kekaisaran Roman. Bangunan ini sengaja dibuat untuk arena pertarungan yang mampu menampung hingga 50 ribu penonton. Ada 80 pintu masuk yang jadi pelengkapnya, dan yang paling terkenal adalah pintu barat yang digunakan untuk membawa keluar gladiator yang tewas dalam pertarungan.</item>
+        <item>Merupakan peninggalan arkeologi suku Maya di Meksiko yang paling lengkap serta masih terawat dengan baik. Menurut buku budaya suku Maya, kompleks candi ini dibangun antara tahun 502–522 Masehi. Suku Maya hanya menempatinya selama 200 tahun, kemudian mereka berpindah ke daerah pantai di Campeche.</item>
+        <item>Hagia Sophia, atau Sancta Sophia dalam bahasa latin dan The Church of the Divine Wisdom dalam bahasa Inggris. Sementara itu, orang Turki menyebutnya Aya Sofya. Hagia Sophia dibangun pertama kali tahun 360 sebagai gereja, pernah terbakar dua kali di antara tahun 532–537, kemudian direnovasi.</item>
+        <item>Machu Picchu menarik perhatian internasional ketika pertama kali ditemukan kembali oleh arkeolog dari Universitas Yale, AS, Hiram Bingham, yang menemukannya pada 1911. Machu Picchu ini bertingkat-tingkat, semakin tinggi tingkatannya, semakin tinggi tingkat kekuasaan orang yang menempatinya. </item>
+        <item>Agra fort atau benteng Agra terletak di negara bagian Uttar Pradesh, sekitar 200 km dari ibukota India, New Delhi. Di kota Agra pulalah, salah satu ikon kebanggaan India - Taj Mahal, didirikan. Bangunan ini sendiri dicanangkan oleh raja Shah Jahan untuk mengenang istri kesayangannya, Mumtaz Mahal yang meninggal sewaktu melahirkan anak ke 14 Shah Jahan.</item>
+        <item>Patung Art Deco terbesar di dunia dan patung Yesus terbesar ke-5 di dunia. Sebuah simbol kekristenan di seluruh dunia, patung ini juga menjadi ikon budaya Rio de Janeiro dan juga Brasil. Letaknya di puncak Gunung Corovado, sehingga pengunjung yang datang dapat memandangi suasana kota Rio mulai dari pelabuhan Guanabara Utara sampai Lagoa Rodgigo de Freitas dari atas.</item>
+        <item>The Lost City, julukan ini kerap diberikan pada Petra. Merupakan sebuah kota batu (Petra berarti batu) yang pernah hilang selama ribuan tahun. Saat memasuki kawasan Petra, siapapun akan melihat jejeran bangunan megah yang dibuat dan dipahat dari batu-batu berukuran raksasa. Untuk masuk ke kawasan Petra, turis yang datang diwajibkan membayar tiket seharga 50 JD atau kurang lebih Rp700 ribu.</item>
+        <item>Tembok Besar China dikenal sebagai salah satu warisan budaya dunia. Tembok yang dibangun sebagai benteng ini merupakan bangunan terbesar yang pernah dibuat dalam sejarah peradaban manusia. Bangunan ini sendiri memiliki panjang mencapai 6.350 km. Banyak sekali cerita yang menyelimutinya, mulai dari cerita rakyat hingga cerita-cerita legenda yang sangat tersohor.</item>
+        <item>Candi Borobudur (Jawa: ꦕꦟ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, translit. Candhi Båråbudhur) adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia,sekaligus salah satu monumen Buddha terbesar di dunia.</item>
+        <item>Candi Prambanan (Jawa: ꦕꦤ꧀ꦝꦶ​ꦥꦿꦩ꧀ꦧꦤꦤ꧀, translit. Candi Prambanan) adalah bangunan candi bercorak agama hindu terbesar di Indonesia yang dibangun pada abad ke-9 Masehi. Candi yang juga disebut sebagai Rara Jonggrang ini dipersembahkan untuk Trimurti, tiga dewa utama Hindu yaitu dewa Brahma sebagai dewa pencipta, dewa Wisnu sebagai dewa pemelihara, dan dewa Siwa sebagai dewa pemusnah. Berdasarkan prasasti Siwagrha nama asli kompleks candi ini adalah Siwagrha (bahasa Sanskerta yang bermakna Rumah Siwa), dan memang di garbagriha (ruang utama) candi ini bersemayam arca Siwa Mahadewa setinggi tiga meter, dikarenakan aliran Syaiwa yang mengutamakan pemujaan dewa Siwa di candi ini.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/375px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/800px-Italy_-_Pisa_-_Leaning_Tower.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/360px-Colosseo_2020.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chichen-Itza-Castillo-Seen-From-East.JPG/375px-Chichen-Itza-Castillo-Seen-From-East.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/398px-Hagia_Sophia_Mars_2013.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/450px-Machu_Picchu%2C_Peru.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TajMahalbyAmalMongia.jpg/450px-TajMahalbyAmalMongia.jpg</item>
+        <item>https://lh3.googleusercontent.com/p/AF1QipOyhUhVPY94asnMeYBylh1lf4elLWb04Qx_UyoT=s1360-w1360-h1020</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Al_khazneh.jpg/330px-Al_khazneh.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Great_Wall_of_China.jpeg/375px-Great_Wall_of_China.jpeg</item>
+        <item>https://fatek.umsu.ac.id/wp-content/uploads/2023/06/Candi-Borobudur-Makna-Yang-Terkandung-di-Dalamnya.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg/330px-Yogyakarta_Indonesia_Prambanan-temple-complex-02.jpg</item>
+    </string-array>
+
+</resources>
